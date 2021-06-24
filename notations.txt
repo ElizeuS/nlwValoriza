@@ -1,0 +1,10 @@
+
+/**
+ * Route Params => http://localhost:3000/produtos/id
+ * Query Params => http://localhost:3000/produtos?param1=val1&param2=val2
+ *
+ *  Body Params => {
+ *  "param1": "valor1",
+ *  "param2": "valor2"
+ * }
+ */
